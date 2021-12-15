@@ -92,15 +92,3 @@ export default function Counter(){
     </main>
   )
 }
-
-// const increment = () => {
-  //   setCount((prevState) => prevState + 1)
-  // }
-
-  // const decrement = () => {
-  //   setCount((prevState) => prevState - 1)
-  // }
-
-  // const reset = () => {
-  //   setCount(0)
-  // }
